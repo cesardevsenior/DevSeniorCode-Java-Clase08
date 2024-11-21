@@ -4,5 +4,9 @@ public class App {
 
         System.out.println("hello everybody :)");
 
+        for (int i = 0; i < 100; i++) {
+            System.out.print("Hola Inges");
+        }
+
     }
 }

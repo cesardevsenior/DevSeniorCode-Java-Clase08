@@ -1,9 +1,7 @@
-import java.util.Scanner;
+import com.devsenior.cdiaz.Reto;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        var scanner = new Scanner(System.in);
-
-        scanner.close();
+        Reto.execute();
     }
 }

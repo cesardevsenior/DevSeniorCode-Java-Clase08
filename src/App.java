@@ -3,6 +3,8 @@ public class App {
         System.out.println("Ahora si es hora de trabajar!!");
         System.out.println("Esta es una nueva version");
 
+        // todo: dev senior el future
+
         // HOLAAAAAAA MI NOMBRE ES MAJO XD
     }
 }
